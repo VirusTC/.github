@@ -31,9 +31,9 @@
 ### Infrastructure & Compliance Pipeline Status
 
 <p align="left">
-  <a href="#compliance"><img src="https://shields.io" alt="Hospital Grade"></a>
-  <a href="#security"><img src="https://shields.io" alt="Security Status"></a>
-  <a href="#pipelines"><img src="https://shields.io" alt="Pipelines Active"></a>
+  <a href="#compliance"><img src="https://github.com/VirusTC/.github/blob/main/docs/FDA_IRB.md" alt="Hospital Grade"></a>
+  <a href="#security"><img src="https://github.com/VirusTC/.github/blob/main/docs/SECURITY.md" alt="Security Status"></a>
+  <a href="#pipelines"><img src="https://github.com/orgs/VirusTC/repositories" alt="Pipelines Active"></a>
 </p>
 
 ---
