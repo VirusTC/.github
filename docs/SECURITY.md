@@ -26,7 +26,7 @@ To protect patient-centric data tracking pipelines and ensure absolute alignment
 
 ### How to Report
 Please send an encrypted email to our data safety infrastructure desk at:  
-**`security@virustreatmentcenters.com`**
+**`drhofstad@u.washington.edu`**
 
 ### What to Include
 To accelerate our internal review and remediation process, please structure your report with the following details:
