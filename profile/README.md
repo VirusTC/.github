@@ -17,7 +17,6 @@
 <p align="center">
   <img src="https://github.com/VirusTC/.github/blob/main/images/VirusTC_telehealth.png" width="100%" alt="Biotechnology Infrastructure Banner" style="border-radius: 8px;">
 </p>
----
 
 ### Core Supply Portfolios
 
