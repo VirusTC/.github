@@ -1,6 +1,6 @@
 <!-- ORGANIZATION HEADER BANNER -->
 <p align="center">
-  <img src="https://unsplash.com" width="100%" alt="Biotechnology Infrastructure Banner" style="border-radius: 8px;">
+  <img src="https://virustreatmentcenters.com" width="100%" alt="Biotechnology Infrastructure Banner" style="border-radius: 8px;">
 </p>
 
 <!-- CLINICAL AUTHORITY SECTION -->
@@ -31,9 +31,9 @@
 ### Infrastructure & Compliance Pipeline Status
 
 <p align="left">
-  <a href="#compliance"><img src="https://github.com/VirusTC/.github/blob/main/docs/FDA_IRB.md" alt="Hospital Grade"></a>
-  <a href="#security"><img src="https://github.com/VirusTC/.github/blob/main/docs/SECURITY.md" alt="Security Status"></a>
-  <a href="#pipelines"><img src="https://github.com/orgs/VirusTC/repositories" alt="Pipelines Active"></a>
+  <a href="https://github.com/VirusTC/.github/blob/main/docs/FDA_IRB.md"><img src="" alt="Hospital Grade"></a>
+  <a href="https://github.com/VirusTC/.github/blob/main/docs/SECURITY.md"><img src="" alt="Security Status"></a>
+  <a href="https://github.com/orgs/VirusTC/repositories"><img src="https://github.com/orgs/VirusTC/repositories" alt="Pipelines Active"></a>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 ### Operational & Procurement Contact
 <p align="center">
-  <b><a href="https://github.com">Explore Repositories</a></b> • 
-  <b><a href="#procurement">Hospital Procurement Desk</a></b> • 
-  <b><a href="#support">Clinical Infrastructure Support</a></b>
+  <b><a href="https://github.com/orgs/VirusTC/repositories">Explore Repositories</a></b> • 
+  <b><a href="https://github.com/VirusTC/TUMOR-Defined-As-Virus-Vesicle-WITH-IMAGES-VIDEO/blob/main/docs/Catalog.md">Hospital Procurement Desk</a></b> • 
+  <b><a href="https://www.foxrothschild.com/pharma-biotech">Clinical Infrastructure Support</a></b>
 </p>
