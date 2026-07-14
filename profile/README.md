@@ -1,8 +1,3 @@
-<!-- ORGANIZATION HEADER BANNER -->
-<p align="center">
-  <img src="https://github.com/VirusTC/.github/blob/main/images/VirusTC_telehealth.png" width="100%" alt="Biotechnology Infrastructure Banner" style="border-radius: 8px;">
-</p>
-
 <!-- CLINICAL AUTHORITY SECTION -->
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
@@ -18,6 +13,10 @@
   </tr>
 </table>
 
+<!-- ORGANIZATION HEADER BANNER -->
+<p align="center">
+  <img src="https://github.com/VirusTC/.github/blob/main/images/VirusTC_telehealth.png" width="100%" alt="Biotechnology Infrastructure Banner" style="border-radius: 8px;">
+</p>
 ---
 
 ### Core Supply Portfolios
