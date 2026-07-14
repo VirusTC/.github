@@ -22,7 +22,7 @@
 
 ### Core Supply Portfolios
 
-| Specialty Therapeutics | Synthetic Biologicals | Biomedical Systems |
+| Specialty Therapeutics | Organic Plant-Based Biologicals | Biomedical Systems |
 | :--- | :--- | :--- |
 | • High-concentration formulas<br>• Advanced pH elevation therapy<br>• Phytochemistry data profiling | • Plant-based plasma protocols<br>• Synthetic bone marrow matrices<br>• Whole-blood alternative models | • UV-C light device firmware<br>• Automated infusion scripts<br>• Mixed-waste validation loops |
 
