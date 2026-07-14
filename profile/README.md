@@ -11,7 +11,7 @@
       <img src="https://unsplash.com" width="160" alt="Clinical Logo" style="border-radius: 50%; border: 3px solid #1b4d3e;">
     </td>
     <td width="75%" valign="top">
-      <h1>🔬 Medical Procurement & Bio-Pharma Solutions</h1>
+      <h1>Medical Procurement & Bio-Pharma Solutions</h1>
       <p><em>Advanced Natural Pharmacology, Specialized Synthetic Bio-Fluids, and High-Efficacy Clinical Supplements.</em></p>
       <p>Our organization provides critical raw material data, open-science protocols, and compliance frameworks supporting high-volume supplement and fluid supply pipelines for university medical centers and global pathology clinics.</p>
     </td>
