@@ -8,7 +8,7 @@
   <tr>
     <td width="25%" align="center" valign="middle">
       <!-- PLACEHOLDER FOR COMPANY LOGO -->
-      <img src="[https://unsplash.com](https://avatars.githubusercontent.com/u/300279146?s=400&u=165bf418847a2863d6a5fe0449fd7c667fc57dbe&v=4)" width="160" alt="Clinical Logo" style="border-radius: 50%; border: 3px solid #1b4d3e;">
+      <img src="https://avatars.githubusercontent.com/u/300279146" width="160" alt="Clinical Logo" style="border-radius: 50%; border: 3px solid #1b4d3e;">
     </td>
     <td width="75%" valign="top">
       <h1>Medical Procurement & Bio-Pharma Solutions</h1>
