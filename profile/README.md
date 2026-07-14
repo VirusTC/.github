@@ -51,16 +51,14 @@
 
 Welcome to the centralized governance and tracking repository for the **VirusTC Telehealth and Prescription Logistics Infrastructure**, headquartered at **Yesler Towers (Seattle, WA)**. 
 
-Operating under the clinical umbrella of **Pacific Health Medical Centers**, this repository hosts the data validation frameworks, standard operating procedures (SOPs), and encrypted logistical manifests required to manage a high-volume, compliant mail-order pharmaceutical and investigational product pipeline supplying verified hospital networks nationwide.
-
----
-
 ### Operational & Procurement Contact
 <p align="center">
   <b><a href="https://github.com/orgs/VirusTC/repositories">Explore Repositories</a></b> • 
   <b><a href="https://github.com/VirusTC/TUMOR-Defined-As-Virus-Vesicle-WITH-IMAGES-VIDEO/blob/main/docs/Catalog.md">Hospital Procurement Desk</a></b> • 
   <b><a href="https://www.foxrothschild.com/pharma-biotech">Clinical Infrastructure Support</a></b>
 </p>
+
+Operating under the clinical umbrella of **Pacific Health Medical Centers**, this repository hosts the data validation frameworks, standard operating procedures (SOPs), and encrypted logistical manifests required to manage a high-volume, compliant mail-order pharmaceutical and investigational product pipeline supplying verified hospital networks nationwide.
 
 ---
 
