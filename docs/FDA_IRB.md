@@ -104,3 +104,33 @@ Physicians and researchers who hold "Attending" or faculty roles across multiple
 
 -   Academic Exchange: Experts frequently consult or hold joint appointments at neighboring institutions (such as participating in regional medical networks) to share best practices for patient care and protocol development.
 -   Compliance Oversight: These arrangements are carefully managed by institutional conflict-of-interest offices to ensure that all consulting, clinical duties, and research practices remain transparent, ethical, and fully aligned with federal and university regulations.
+
+## Works Cited
+
+### Federal Regulatory References (U.S. Government)
+
+*   **U.S. Food and Drug Administration.** *21 CFR Part 50: Protection of Human Subjects (Informed Consent).* Electronic Code of Federal Regulations (eCFR). 
+    Source: [https://ecfr.gov](https://ecfr.gov)
+
+*   **U.S. Food and Drug Administration.** *21 CFR Part 56: Institutional Review Boards.* Electronic Code of Federal Regulations (eCFR). 
+    Source: [https://ecfr.gov](https://ecfr.gov)
+
+*   **U.S. Food and Drug Administration.** *21 CFR § 312.8: Charging for investigational drugs under an IND.* Electronic Code of Federal Regulations (eCFR). 
+    Source: [https://ecfr.gov](https://ecfr.gov)
+
+*   **U.S. Food and Drug Administration.** *21 CFR Part 312, Subpart I: Expanded Access to Investigational Drugs for Treatment Use.* Electronic Code of Federal Regulations (eCFR). 
+    Source: [https://ecfr.gov](https://ecfr.gov)
+
+*   **U.S. Department of Health and Human Services.** *Office for Human Research Protections (OHRP) Database of Registered IRBs and FWAs.* U.S. Department of Health and Human Services. 
+    Source: [https://hhs.gov](https://hhs.gov)
+
+### Academic Institutional References (Higher Education)
+
+*   **University of Washington Office of Research.** *Human Subjects Division (HSD) - Guidance on FDA-Regulated Research.* University of Washington. 
+    Source: [https://washington.edu](https://washington.edu)
+
+*   **University of Washington Office of Research.** *About the Human Subjects Division (HSD) and Federalwide Assurance (FWA00006878).* University of Washington. 
+    Source: [https://washington.edu](https://washington.edu)
+
+*   **University of Washington Office of Research.** *Zipline Electronic Submission and Tracking Infrastructure.* University of Washington HSD Systems. 
+    Source: [https://washington.edu](https://washington.edu)
